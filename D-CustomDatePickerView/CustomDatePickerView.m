@@ -248,9 +248,9 @@
             
             [pickerView reloadAllComponents];
         }else{
-            [self.viewModel setHourArrayWithStartHour:0];
-            [self.viewModel setHalfMinuteArrayWithStartHalfMinute:0];
-            [pickerView reloadAllComponents];
+//            [self.viewModel setHourArrayWithStartHour:0];
+//            [self.viewModel setHalfMinuteArrayWithStartHalfMinute:0];
+//            [pickerView reloadAllComponents];
         }
 
         
